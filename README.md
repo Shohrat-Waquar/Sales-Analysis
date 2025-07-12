@@ -74,6 +74,6 @@ This Power BI project provides a comprehensive Sales Analytics Dashboard for vis
 
 - 💼 LinkedIn: www.linkedin.com/in/shohrat-waquar-b5a813288
 - 📧 Email: waquar.shohrat@gmail.com
-- 📧 Image : 
+- 📧 Image : https://github.com/Shohrat-Waquar/Sales-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png.png
 
 
