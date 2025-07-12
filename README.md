@@ -74,13 +74,6 @@ This Power BI project provides a comprehensive Sales Analytics Dashboard for vis
 
 - 💼 LinkedIn: www.linkedin.com/in/shohrat-waquar-b5a813288
 - 📧 Email: waquar.shohrat@gmail.com
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Feel free to use or modify it for personal or commercial purposes.
-
----
+- 📧 Image : 
 
 
